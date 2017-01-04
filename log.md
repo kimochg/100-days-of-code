@@ -4,21 +4,21 @@
 
 **Today's Progress**: ngResource, Angular Form Validation, user prompting with Bootstrap help-block
 
-**Thoughts:** retreive data from back-end(RESTful API) via ngResource, disable HTML5 form validation, use ng-class/ng-show to promting user.
+**Thoughts**: retreive data from back-end(RESTful API) via ngResource, disable HTML5 form validation, use ng-class/ng-show to promting user.
 
-**Link to work:** [SHINO App](https://github.com/kimochg/shino)
+**Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
 
-**FreeCodeCamp:** 7
+**FreeCodeCamp**: 7
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: ngResource $save, CORS
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: send comment with $resource().$save(), support CORS with module(cors), not simple request will have a OPTIONS request as CORS prefilght to get the support server CORS methods, redirect from HTTP to HTTPS when CROS prefilght will cause invalid.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
 
+**FreeCodeCamp**: 32
 
 ### Day 1: June 27, Monday
 
