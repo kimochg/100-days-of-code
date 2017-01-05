@@ -34,5 +34,6 @@ HTTPS on whole site, solution
 
 **Link(s) to work**: 
 [MEAN Project - HTTPS on whole site](http://www.jianshu.com/p/3cef55f0ea6f)
+[MEAN Project - HTTPS on whole site](https://github.com/kimochg/TinyThoughts/blob/master/Security/MEAN%20project%20-%20HTTPS%20on%20whole%20site.md)
 
 **FreeCodeCamp**: 52
