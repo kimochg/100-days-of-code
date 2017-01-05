@@ -20,12 +20,19 @@
 
 **FreeCodeCamp**: 32
 
-### Day 1: June 27, Monday
+### Day 2: Januray 5, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Nginx, Express sercurity SSL certificate with Let's encrypt SSL
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
+HTTPS on whole site, solution 
+1. Nginx force HTTPS, backend http visit(backend no need get ssl cert/keys).
+2. Nginx force HTTPS, backend https(Nginx proxy to backend https visit, it fails when need CORS but express have redirected http -> https)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Client] -- HTTP/HTTPS -> [Nginx] <- HTTPS -> [Front-end]
+[Front-end] -- HTTPS -> [Nginx] <- HTTPS -> [Back-end]
+
+**Link(s) to work**: 
+[MEAN Project - HTTPS on whole site](http://www.jianshu.com/p/3cef55f0ea6f)
+
+**FreeCodeCamp**: 52
