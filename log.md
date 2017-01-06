@@ -37,3 +37,14 @@ HTTPS on whole site, solution
 [MEAN Project - HTTPS on whole site](https://github.com/kimochg/TinyThoughts/blob/master/Security/MEAN%20project%20-%20HTTPS%20on%20whole%20site.md)
 
 **FreeCodeCamp**: 52
+
+### Day 3: Januray 6, 2017
+
+**Today's Progress**: Sign in support functional implement
+
+**Thoughts**: 
+Code can be written in both Facotry and Controller, there is maybe philosophy to do the choice. MVVM
+
+**Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
+
+**FreeCodeCamp**: 52
