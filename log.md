@@ -9,7 +9,7 @@
 **Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
 
 **FreeCodeCamp**: 7
-
+___
 ### Day 1: January 4, 2017
 
 **Today's Progress**: ngResource $save, CORS
@@ -19,7 +19,7 @@
 **Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
 
 **FreeCodeCamp**: 32
-
+___
 ### Day 2: Januray 5, 2017
 
 **Today's Progress**: Nginx, Express sercurity SSL certificate with Let's encrypt SSL
@@ -37,7 +37,7 @@ HTTPS on whole site, solution
 - [MEAN Project - HTTPS on whole site](https://github.com/kimochg/TinyThoughts/blob/master/Security/MEAN%20project%20-%20HTTPS%20on%20whole%20site.md)
 
 **FreeCodeCamp**: 52
-
+___
 ### Day 3: Januray 6, 2017
 
 **Today's Progress**: Sign in support functional implement
@@ -48,3 +48,22 @@ Code can be written in both Facotry and Controller, there is maybe philosophy to
 **Link(s) to work**: [SHINO App](https://github.com/kimochg/shino)
 
 **FreeCodeCamp**: 52
+___
+### Day 4: Januray 7, 2017
+
+**Today's Progress**: User login/logout/register Complete
+
+**Thoughts**: 
+Code can be written in both Facotry and Controller, there is maybe philosophy to do the choice. MVVM### Day 3: Januray 6, 2017
+
+**Today's Progress**: Sign in support functional implement
+
+**Thoughts**: 
+Angular directive is of great importance in developing app, the Sign in form need to be more designed
+
+**Link(s) to work**: 
+1. [SHINO App](https://github.com/kimochg/shino)
+2. [Password check directive in angularjs](http://www.jianshu.com/p/9841b3d71669)
+
+**FreeCodeCamp**: 100
+___
