@@ -54,11 +54,6 @@ ___
 **Today's Progress**: User login/logout/register Complete
 
 **Thoughts**: 
-Code can be written in both Facotry and Controller, there is maybe philosophy to do the choice. MVVM### Day 3: Januray 6, 2017
-
-**Today's Progress**: Sign in support functional implement
-
-**Thoughts**: 
 Angular directive is of great importance in developing app, the Sign in form need to be more designed
 
 **Link(s) to work**: 
@@ -66,4 +61,21 @@ Angular directive is of great importance in developing app, the Sign in form nee
 2. [Password check directive in angularjs](http://www.jianshu.com/p/9841b3d71669)
 
 **FreeCodeCamp**: 100
+___
+### Day 5: Januray 8, 2017
+
+**Today's Progress**: 
+- user can comment dish if login, corresponding to backend data form
+- MongoDB enable authentication for safe risk on default configuration
+
+**Thoughts**: 
+- Mongodb have safe vulner when default configuration.
+- corresponding to backend data form using RESTful API response.
+- next, user session token refresh, when and where?
+
+**Link(s) to work**: 
+1. [SHINO App](https://github.com/kimochg/shino)
+2. [MongoDB Enable Authentication](http://www.jianshu.com/p/79caa1cc49a5)
+
+**FreeCodeCamp**: 119
 ___
