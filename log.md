@@ -79,3 +79,21 @@ ___
 
 **FreeCodeCamp**: 119
 ___
+### Day 6: Januray 9, 2017
+
+**Today's Progress**: 
+- token in local storage will be verified by GET /user/login, setAuthUtil when success, perform logout when fail
+- final polish SHINO website: Banner css linear-gradient, google fonts for title
+- strip debugger and console output, and uglify js files when system env is production
+
+**Thoughts**: 
+a banner image is hard to reponsive, need think deep
+
+**Link(s) to work**: 
+1. [SHINO App](https://github.com/kimochg/shino)
+2. [SHINO link](https://shino.pervade.tech)
+3. [The Tribute Page](http://codepen.io/kimochg/full/OWVKLv/)
+
+
+**FreeCodeCamp**: 120
+___
