@@ -97,3 +97,17 @@ a banner image is hard to reponsive, need think deep
 
 **FreeCodeCamp**: 120
 ___
+### Day 7: Januray 10, 2017
+
+**Today's Progress**: 
+grok vi, and write down to tinythougts
+
+**Thoughts**: 
+The Zen of Vi is great
+
+**Link(s) to work**: 
+[Grok Vi](https://github.com/kimochg/TinyThoughts/blob/master/Coding/GrokVi.md)
+
+
+**FreeCodeCamp**: 120
+___
