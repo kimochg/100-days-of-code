@@ -111,3 +111,21 @@ The Zen of Vi is great
 
 **FreeCodeCamp**: 120
 ___
+### Day 8: Januray 11, 2017
+
+**Today's Progress**: 
+- reading: understanding flexbox
+- codepen flexbox portfolio catty music
+- register qiniu cloud for image bed
+
+**Thoughts**: 
+Learning brand new flexbox model to layout page
+[understanding flexbox](https://github.com/kimochg/TinyThoughts/blob/master/Styles/flexbox.md)
+
+**Link(s) to work**: 
+[flexbox: catty music](http://codepen.io/kimochg/full/QdyVgV/)
+
+**FreeCodeCamp**: 120
+___
+
+
