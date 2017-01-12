@@ -127,5 +127,21 @@ Learning brand new flexbox model to layout page
 
 **FreeCodeCamp**: 120
 ___
+### Day 9: Januray 12, 2017
+
+**Today's Progress**: 
+- TinyThoughts: understanding flexbox
+- codepen flexbox Catty Music
+
+**Thoughts**: 
+- flexbox clean css, nested flex layout whole page.
+- try add markdown image use local picture, with MWeb
+
+**Link(s) to work**: 
+[flexbox: catty music](http://codepen.io/kimochg/full/QdyVgV/)
+[understanding flexbox](https://github.com/kimochg/TinyThoughts/blob/master/Styles/flexbox.md)
+
+**FreeCodeCamp**: 120
+___
 
 
