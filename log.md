@@ -143,5 +143,19 @@ ___
 
 **FreeCodeCamp**: 120
 ___
+### Day 10: Januray 13, 2017
+
+**Today's Progress**: 
+- portfolio with flexbox model and fontawesome
+
+**Thoughts**: 
+- pure css is hard to maintain a perfect visual experience
+- next, react and material-ui
+
+**Link(s) to work**: 
+[Portfolio](http://codepen.io/kimochg/full/dNGmxY/)
+
+**FreeCodeCamp**: 121
+___
 
 
