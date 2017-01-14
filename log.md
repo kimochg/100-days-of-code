@@ -157,5 +157,19 @@ ___
 
 **FreeCodeCamp**: 121
 ___
+### Day 11: Januray 14, 2017
+
+**Today's Progress**: 
+- Learn ES2015/ES6
+
+**Thoughts**: 
+- The ES6 Specialization is pretty cool, build a hard fundation for react
+
+**Link(s) to work**: 
+[Learn ES6](https://github.com/kimochg/TinyThoughts/blob/master/Coding/es6.md)
+
+**FreeCodeCamp**: 121
+___
+
 
 
