@@ -170,6 +170,20 @@ ___
 
 **FreeCodeCamp**: 121
 ___
+### Day 12: Januray 16, 2017
 
+**Today's Progress**: 
+- Implement a React Todos App
+
+**Thoughts**: 
+- the dispresive state is hard to manage
+- the props(methods, data) flow down to child component and forth back.
+
+
+**Link(s) to work**: 
+[React Todos App](https://github.com/kimochg/react-todos)
+
+**FreeCodeCamp**: 156
+___
 
 
