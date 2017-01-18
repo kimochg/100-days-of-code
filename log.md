@@ -185,5 +185,22 @@ ___
 
 **FreeCodeCamp**: 156
 ___
+### Day 13: Januray 18, 2017
+
+**Today's Progress**: 
+- Redux Todos App
+
+**Thoughts**: 
+- single store and pure function
+- container component and representational component
+- use context(Provider)/connect(mapStateToProps, mapDispatch) to implicitly pass through store
+
+
+**Link(s) to work**: 
+[Redux Todos App](https://github.com/kimochg/redux-todos)
+
+**FreeCodeCamp**: 193
+___
+
 
 
