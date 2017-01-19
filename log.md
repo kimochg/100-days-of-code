@@ -201,6 +201,19 @@ ___
 
 **FreeCodeCamp**: 193
 ___
+### Day 14: Januray 19, 2017
 
+**Today's Progress**: 
+- Redux Todos App
+
+**Thoughts**: 
+- Container component should rerender itself by subscribe (this.forceUpdate()) when componentWillMount() and unsubscribe when componentWillUnmout()
+- Connect() do this implicitly behind the scenario
+
+**Link(s) to work**: 
+[Redux Todos App](https://github.com/kimochg/redux-todos)
+
+**FreeCodeCamp**: 193
+___
 
 
