@@ -215,5 +215,22 @@ ___
 
 **FreeCodeCamp**: 193
 ___
+### Day 15: Januray 20, 2017
+
+**Today's Progress**: 
+- Redux Todos App
+
+**Thoughts**: 
+Redux philosophy
+- Try to extract representational component
+- Decouple the businees logic in container component from looks
+- Use Provider and connect method from react-redux to pass through state, dispatch as props with React context implicitly
+- Extract actions to action generator which returns plain object for dispatch
+
+**Link(s) to work**: 
+[Redux Todos App](https://github.com/kimochg/redux-todos)
+
+**FreeCodeCamp**: 193
+___
 
 
