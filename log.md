@@ -232,5 +232,18 @@ Redux philosophy
 
 **FreeCodeCamp**: 193
 ___
+### Day 16: Januray 21, 2017
 
+**Today's Progress**: 
+React Convention Tutorial
 
+**Thoughts**: 
+- React-routes
+- React thunk to make a async dispatch or dispatch if met some conditions
+- mock login to test login
+
+**Link(s) to work**: 
+[React Convention](https://reactjs.co/)
+
+**FreeCodeCamp**: 193
+___
