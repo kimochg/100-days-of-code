@@ -247,3 +247,16 @@ React Convention Tutorial
 
 **FreeCodeCamp**: 193
 ___
+### Day 17: Januray 22, 2017
+
+**Today's Progress**: 
+import react-router to redux-apps
+
+**Thoughts**: 
+params of routers can be a source of truth instead, especially the values irrelevant to database
+
+**Link(s) to work**: 
+[Redux todos App](https://github.com/kimochg/redux-todos)
+
+**FreeCodeCamp**: 193
+___
