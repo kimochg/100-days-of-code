@@ -260,3 +260,17 @@ params of routers can be a source of truth instead, especially the values irrele
 
 **FreeCodeCamp**: 193
 ___
+### Day 18: Januray 27, 2017
+
+**Today's Progress**: 
+- refactor the object data model to more like real-world application
+- leverage normalizr module package to normalize the back-end responses
+
+**Thoughts**: 
+real-world back-end data, use a array of uuid, and an array-like object to store objects and indexed by uuid
+
+**Link(s) to work**: 
+[Redux todos App](https://github.com/kimochg/redux-todos)
+
+**FreeCodeCamp**: 193
+___
