@@ -274,3 +274,18 @@ real-world back-end data, use a array of uuid, and an array-like object to store
 
 **FreeCodeCamp**: 193
 ___
+### Day 19: Januray 30, 2017
+
+**Today's Progress**: 
+Pure CSS way to implement Image Loop, Navbar Slider, Fixed Image Site
+
+**Thoughts**: 
+hard fondamentals in navtive way to set up website is of great importance
+
+**Link(s) to work**: 
+- [Nav Image Slider](https://gist.github.com/kimochg/98a369b857a5958fe13295d9d6017cdb)
+- [Fix Image Site](https://gist.github.com/kimochg/611d84d9f7feb8ffc32d0348086506f5)
+- [infinite background animation loop](https://gist.github.com/kimochg/62fd03043fb48a439a4095d253bd950b)
+
+**FreeCodeCamp**: 200
+___
