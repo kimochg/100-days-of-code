@@ -289,3 +289,18 @@ hard fondamentals in navtive way to set up website is of great importance
 
 **FreeCodeCamp**: 200
 ___
+### Day 20: February 2, 2017
+
+**Today's Progress**: 
+Set up a weather app demo with React Native
+
+**Thoughts**: 
+- React Native IOS flexbox layout
+- React Native with Redux
+- React Native with 3rd party Packages
+
+**Link(s) to work**: 
+- [RNweather](https://github.com/kimochg/react-native-weather-app)
+
+**FreeCodeCamp**: 200
+___
