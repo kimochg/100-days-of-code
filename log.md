@@ -304,3 +304,18 @@ Set up a weather app demo with React Native
 
 **FreeCodeCamp**: 200
 ___
+### Day 21: February 3, 2017
+
+**Today's Progress**: 
+Refactor the app to Redux Architecture
+
+**Thoughts**: 
+Seperate State, Action in Real-World Application   
+Given y=f(x). y is state, x is action.payload, f is reducer.  
+action.type is function condition
+
+**Link(s) to work**: 
+- [RNweather](https://github.com/kimochg/react-native-weather-app)
+
+**FreeCodeCamp**: 200
+___
