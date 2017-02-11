@@ -319,3 +319,19 @@ action.type is function condition
 
 **FreeCodeCamp**: 200
 ___
+### Day 22: February 11, 2017
+
+**Today's Progress**: 
+Imitate wangzhan.360.com homepage with React
+
+**Thoughts**: 
+- Component website with React
+- Seperated CSS issue
+- pseudo element/class usage
+- full-page scroll animation in jQuery
+
+**Link(s) to work**: 
+- [react-wangzhan360com](https://github.com/kimochg/react-wangzhan360com)
+
+**FreeCodeCamp**: 200
+___
