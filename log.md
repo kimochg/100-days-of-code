@@ -335,3 +335,16 @@ Imitate wangzhan.360.com homepage with React
 
 **FreeCodeCamp**: 200
 ___
+### Day 23: February 13, 2017
+
+**Today's Progress**: 
+amend a react-component and set up pull request
+
+**Thoughts**: 
+add callback function to react-scrollpage
+
+**Link(s) to work**: 
+- [react-scrollpage](https://github.com/kimochg/react-fullPage/tree/onPageChange)
+
+**FreeCodeCamp**: 200
+___
