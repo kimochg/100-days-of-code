@@ -348,3 +348,16 @@ add callback function to react-scrollpage
 
 **FreeCodeCamp**: 200
 ___
+### Day 24: February 17, 2017
+
+**Today's Progress**: 
+Understanding Saga Pattern
+
+**Thoughts**: 
+Saga is a concept from backend to manage data request to distributed system with high availability.
+
+**Link(s) to work**: 
+- [Saga Pattern](https://github.com/kimochg/TinyThoughts/blob/master/React/SagaPattern.md)
+
+**FreeCodeCamp**: 200
+___
