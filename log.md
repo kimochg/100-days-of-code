@@ -361,3 +361,17 @@ Saga is a concept from backend to manage data request to distributed system with
 
 **FreeCodeCamp**: 200
 ___
+### Day 25: February 20, 2017
+
+**Today's Progress**: 
+Deduplicate request in Saga world
+
+**Thoughts**: 
+Saga is a brilliant way to control side-effects, how to deduplicate request if there is already one request sent.
+
+**Link(s) to work**: 
+- [Redux-todos](https://github.com/kimochg/redux-todos/commit/3eb80390ec748c87f1599073dfc69c986f6e34dc)
+- [Solutions gist](https://gist.github.com/kimochg/cdacf4b7eee3ba1b1d514351668c5d86)
+
+**FreeCodeCamp**: 200
+___
