@@ -375,3 +375,16 @@ Saga is a brilliant way to control side-effects, how to deduplicate request if t
 
 **FreeCodeCamp**: 200
 ___
+### Day 26: February 22, 2017
+
+**Today's Progress**: 
+React Native Github Note Taker
+
+**Thoughts**:  
+More heavy app with react-native, Navigator, ActivityIndicator
+
+**Link(s) to work**: 
+- [react-native-githubnote-app](https://github.com/kimochg/react-native-githubnote-app)
+
+**FreeCodeCamp**: 200
+___
