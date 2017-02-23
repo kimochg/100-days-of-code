@@ -388,3 +388,17 @@ More heavy app with react-native, Navigator, ActivityIndicator
 
 **FreeCodeCamp**: 200
 ___
+### Day 27: February 23, 2017
+
+**Today's Progress**: 
+React Native Github Note Taker: refactor react with redux/redux-saga, saga with navigator.
+
+**Thoughts**:  
+navigator passed to worker saga and handle business logic directly in saga function, as a side effect of action.
+
+
+**Link(s) to work**: 
+- [react-native-githubnote-app](https://github.com/kimochg/react-native-githubnote-app)
+
+**FreeCodeCamp**: 200
+___
