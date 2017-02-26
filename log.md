@@ -402,3 +402,18 @@ navigator passed to worker saga and handle business logic directly in saga funct
 
 **FreeCodeCamp**: 200
 ___
+### Day 28: February 25, 2017
+
+**Today's Progress**: 
+React Native Github Note Taker: Note View with Google Firebase backend Storage
+
+**Thoughts**:  
+- Data resolved then navigator to next Scene, or first navigator to next scene, then show spinner and wait response?
+- isFetching, fetchErrMsg, is fields, a common status manage thing, which is a weak point of redux.
+
+
+**Link(s) to work**: 
+- [react-native-githubnote-app](https://github.com/kimochg/react-native-githubnote-app)
+
+**FreeCodeCamp**: 200
+___
