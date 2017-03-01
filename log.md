@@ -417,3 +417,17 @@ React Native Github Note Taker: Note View with Google Firebase backend Storage
 
 **FreeCodeCamp**: 200
 ___
+### Day 29: March 1, 2017
+
+**Today's Progress**: 
+Pull Request github graphql api exampole
+
+**Thoughts**:  
+- use apollo data stack to replace redux
+
+**Link(s) to work**: 
+- [GitHub-GraphQL-API-Example](https://github.com/kimochg/GitHub-GraphQL-API-Example)
+
+**FreeCodeCamp**: 200
+___
+
