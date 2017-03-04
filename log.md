@@ -430,4 +430,17 @@ Pull Request github graphql api exampole
 
 **FreeCodeCamp**: 200
 ___
+### Day 30: March 4, 2017
+
+**Today's Progress**: 
+React testing cookbook
+
+**Thoughts**:  
+mocha + expect + react-addons-test-utils shallow render test easily, component is declartive as a object.
+
+**Link(s) to work**: 
+- [Mocha test gist](https://gist.github.com/kimochg/7d6559a74088d8f8812b2bddc72db85d)
+
+**FreeCodeCamp**: 200
+___
 
